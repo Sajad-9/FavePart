@@ -155,7 +155,7 @@
     <div class="toasts" id="toasts" aria-live="polite"></div>
     
     <!-- Edit href path! -->
-    <script src="/FavePart/project/assets/js/main.js"></script>
+    <script type="text/js" src="/FavePart/project/assets/js/main.js"></script>
     <script type="module"
     src="https://static.cloudflareinsights.com/beacon.min.js/v31edd6df95cf4e85bb4c19e7a9bdbcba1788362987495"
     integrity="sha512-iIg7k2xntmwu6/uSb5tpc/hySgZc4eoL31yB29W6tJFo2akwjPWcEqnCEdJvGexCL0KEQwVYv5BlowfhVz26hg=="

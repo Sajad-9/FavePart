@@ -10,7 +10,7 @@
     <title>فاوه پارت | فروشگاه قطعات یدکی خودرو</title>
 
     <!-- Edit href path! -->
-    <link rel="stylesheet" href="/FavePart/project/assets/css/main.css" />
+    <link type="text/css" rel="stylesheet" href="/FavePart/project/assets/css/main.css" />
 </head>
 
 <body>
